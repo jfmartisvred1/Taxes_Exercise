@@ -1,0 +1,15 @@
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\bin\Debug\net7.0\Taxes.exe
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\bin\Debug\net7.0\Taxes.deps.json
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\bin\Debug\net7.0\Taxes.runtimeconfig.json
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\bin\Debug\net7.0\Taxes.dll
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\bin\Debug\net7.0\Taxes.pdb
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.csproj.AssemblyReference.cache
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.AssemblyInfoInputs.cache
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.AssemblyInfo.cs
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.csproj.CoreCompileInputs.cache
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.dll
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\refint\Taxes.dll
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.pdb
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\Taxes.genruntimeconfig.cache
+C:\Users\jfmar\Desktop\ESTUDOS C# E WEB E SQL\Taxes\Taxes\obj\Debug\net7.0\ref\Taxes.dll
